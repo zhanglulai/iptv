@@ -594,48 +594,6 @@ rtp://239.253.92.203:6150
 rtp://239.253.92.116:6029
 #EXTINF:-1,党教
 rtp://239.253.92.125:6024
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1 PREMIUM ULTRA FHD" tvg-logo="http://logo.protv.cc/picons/logos/beinsports.png" group-title="|AR| BEIN SPORTS 4K",AR: BEIN SPORTS 1 PREMIUM ULTRA FHD
-http://line.dino-ott.ru:8000/8a53198bca/b7692267fc/550415
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2 PREMIUM ULTRA FHD" tvg-logo="http://logo.protv.cc/picons/logos/beinsports.png" group-title="|AR| BEIN SPORTS 4K",AR: BEIN SPORTS 2 PREMIUM ULTRA FHD
-http://line.dino-ott.ru:8000/8a53198bca/b7692267fc/550414
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 3 PREMIUM ULTRA FHD" tvg-logo="http://logo.protv.cc/picons/logos/beinsports.png" group-title="|AR| BEIN SPORTS 4K",AR: BEIN SPORTS 3 PREMIUM ULTRA FHD
-http://line.dino-ott.ru:8000/8a53198bca/b7692267fc/550413
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1 ULTRA FHD" tvg-logo="http://logo.protv.cc/picons/logos/beinsports.png" group-title="|AR| BEIN SPORTS 4K",AR: BEIN SPORTS 1 ULTRA FHD
-http://line.dino-ott.ru:8000/8a53198bca/b7692267fc/550412
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2 ULTRA FHD" tvg-logo="http://logo.protv.cc/picons/logos/beinsports.png" group-title="|AR| BEIN SPORTS 4K",AR: BEIN SPORTS 2 ULTRA FHD
-http://line.dino-ott.ru:8000/8a53198bca/b7692267fc/550411
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 3 ULTRA FHD" tvg-logo="http://logo.protv.cc/picons/logos/beinsports.png" group-title="|AR| BEIN SPORTS 4K",AR: BEIN SPORTS 3 ULTRA FHD
-http://line.dino-ott.ru:8000/8a53198bca/b7692267fc/550410
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 4 ULTRA FHD" tvg-logo="http://logo.protv.cc/picons/logos/beinsports.png" group-title="|AR| BEIN SPORTS 4K",AR: BEIN SPORTS 4 ULTRA FHD
-http://line.dino-ott.ru:8000/8a53198bca/b7692267fc/550409
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 5 ULTRA FHD" tvg-logo="http://logo.protv.cc/picons/logos/beinsports.png" group-title="|AR| BEIN SPORTS 4K",AR: BEIN SPORTS 5 ULTRA FHD
-http://line.dino-ott.ru:8000/8a53198bca/b7692267fc/550408
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 6 ULTRA FHD" tvg-logo="http://logo.protv.cc/picons/logos/beinsports.png" group-title="|AR| BEIN SPORTS 4K",AR: BEIN SPORTS 6 ULTRA FHD
-http://line.dino-ott.ru:8000/8a53198bca/b7692267fc/550407
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 7 ULTRA FHD" tvg-logo="http://logo.protv.cc/picons/logos/beinsports.png" group-title="|AR| BEIN SPORTS 4K",AR: BEIN SPORTS 7 ULTRA FHD
-http://line.dino-ott.ru:8000/8a53198bca/b7692267fc/550406
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1 EN ULTRA FHD" tvg-logo="http://logo.protv.cc/picons/logos/beinsports.png" group-title="|AR| BEIN SPORTS 4K",AR: BEIN SPORTS 1 EN ULTRA FHD
-http://line.dino-ott.ru:8000/8a53198bca/b7692267fc/550405
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2 EN ULTRA FHD" tvg-logo="http://logo.protv.cc/picons/logos/beinsports.png" group-title="|AR| BEIN SPORTS 4K",AR: BEIN SPORTS 2 EN ULTRA FHD
-http://line.dino-ott.ru:8000/8a53198bca/b7692267fc/550404
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 3 EN ULTRA FHD" tvg-logo="http://logo.protv.cc/picons/logos/beinsports.png" group-title="|AR| BEIN SPORTS 4K",AR: BEIN SPORTS 3 EN ULTRA FHD
-http://line.dino-ott.ru:8000/8a53198bca/b7692267fc/550403
-#EXTINF:-1 tvg-id="" tvg-name="SE: VIAPLAY SPORT PREMIERE HD" tvg-logo="http://logo.protv.cc/picons/logos/VIAPLAY-.png" group-title="|EU| SWEDEN HD",SE: VIAPLAY SPORT PREMIERE HD
-http://line.dino-ott.ru:8000/8a53198bca/b7692267fc/493951
-#EXTINF:-1 tvg-id="" tvg-name="SE: VIAPLAY FOOTBALL HD" tvg-logo="http://logo.protv.cc/picons/logos/VIAPLAY-.png" group-title="|EU| SWEDEN HD",SE: VIAPLAY FOOTBALL HD
-http://line.dino-ott.ru:8000/8a53198bca/b7692267fc/493952
-#EXTINF:-1 tvg-id="" tvg-name="SE: VIAPLAY SPORT 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/VIAPLAY-.png" group-title="|EU| SWEDEN HD",SE: VIAPLAY SPORT 1 HD
-http://line.dino-ott.ru:8000/8a53198bca/b7692267fc/493953
-#EXTINF:-1 tvg-id="" tvg-name="SE: VIAPLAY SPORT EXTRA 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/VIAPLAY-.png" group-title="|EU| SWEDEN HD",SE: VIAPLAY SPORT EXTRA 1 HD
-http://line.dino-ott.ru:8000/8a53198bca/b7692267fc/493954
-#EXTINF:-1 tvg-id="CMoreFotboll.se" tvg-name="SE: C MORE FOTBOLL" tvg-logo="http://logo.protv.cc/picons/logos/cmorefotboll.png" group-title="|EU| SWEDEN HD",SE: C MORE FOTBOLL
-http://line.dino-ott.ru:8000/8a53198bca/b7692267fc/493930
-#EXTINF:-1 tvg-id="CMoreLive.se" tvg-name="SE: C MORE LIVE 1" tvg-logo="http://logo.protv.cc/picons/logos/cmorelive.png" group-title="|EU| SWEDEN HD",SE: C MORE LIVE 1
-http://line.dino-ott.ru:8000/8a53198bca/b7692267fc/493933
-#EXTINF:-1 tvg-id="CMoreLive2.se" tvg-name="SE: C MORE LIVE 2" tvg-logo="http://logo.protv.cc/picons/logos/cmorelive2.png" group-title="|EU| SWEDEN HD",SE: C MORE LIVE 2
-http://line.dino-ott.ru:8000/8a53198bca/b7692267fc/493934
-#EXTINF:-1 tvg-id="CMoreLive3.se" tvg-name="SE: C MORE LIVE 3" tvg-logo="http://logo.protv.cc/picons/logos/cmorelive3.png" group-title="|EU| SWEDEN HD",SE: C MORE LIVE 3
-http://line.dino-ott.ru:8000/8a53198bca/b7692267fc/493935
 #EXTINF:-1 ,咪咕视频4K
 http://117.148.179.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230373/index.m3u8
 #EXTINF:-1 ,咪咕视频1
